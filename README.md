@@ -100,10 +100,6 @@
    - **Impact**:  Improved Flutter mobile UI testing, ensuring smooth user experiences across different devices.
 ---
 
-## 📫 Let’s Connect!
-I’m always open to collaborating on exciting projects or discussing automation strategies. Feel free to reach out!
-
-
 
 
 - 🔭 I’m currently working on [Personal Loan](https://github.com/usmantalha09/Hybrid-Mobile-PersonalLoan-Bilingual)
@@ -124,4 +120,9 @@ I’m always open to collaborating on exciting projects or discussing automation
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmantalha09&show_icons=true&locale=en" alt="usmantalha09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmantalha09&" alt="usmantalha09" /></p>
+
+## 📫 Let’s Connect!
+I’m always open to collaborating on exciting projects or discussing automation strategies. Feel free to reach out!
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-usman-talha-9a6077149/)
+- **Email**: usmantalha09@gmail.com
 
